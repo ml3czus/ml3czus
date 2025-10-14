@@ -1,6 +1,6 @@
 # mleczus
 
-<p align='center'>your usual programmer</p>
+<p align='center'>your typical software developer</p>
 
 <p align='center'>
   <a href='https://github.com/Mleczyk'><img alt="GitHub followers" src="https://img.shields.io/github/followers/mleczyk?style=for-the-badge&color=orange"></a>
