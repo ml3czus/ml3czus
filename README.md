@@ -1,6 +1,6 @@
-# <p align='center'>mleczus</p>
+# <p align='center'>𝖒𝖑𝖊𝖈𝖟𝖚𝖘</p>
 
-<p align='center'>your typical software developer</p>
+<p align='center'>programista ktoremu nic sie nie chce</p>
 
 <p align='center'>
   <a href='https://github.com/Mleczyk'><img alt="GitHub followers" src="https://img.shields.io/github/followers/mleczyk?style=for-the-badge&color=orange"></a>
