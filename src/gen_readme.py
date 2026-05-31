@@ -12,7 +12,7 @@ def generate_fetch(g:Github) -> str:
     pfp = generate_logo(g)
 
 
-    stats = f"{user['username']}@github.com\n------------------------------\n"
+    stats = f"{user['username']}@goog\n------------------------------\n"
     for stat in config['display_stats']:
         if stat in user:
             stats += f"{stat.replace('_', ' ').title()}: {user[stat]}\n"
