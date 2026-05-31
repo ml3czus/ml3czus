@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Example Output
+<div align='center'>
+  <img src='out/fetch.png' alt='Github Fetch'>
+</div>
